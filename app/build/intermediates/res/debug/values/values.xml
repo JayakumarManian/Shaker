@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/MJK%20Drive/Mobile%20Dev%20Repository/Android/Shaker/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Shaker</string>
+    <string name="hello">Hello World, Main!</string>
+</resources>
